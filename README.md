@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Eddie Teah 
 
-You can use the [editor on GitHub](https://github.com/ETeah/eddieteah.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my resume website. I have worked very hard over the past years to create enough projects for my portfolio. 
+You are welcome to view them all!
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Animation
+-Programming
+-Management
 
 ```markdown
 Syntax highlighted code block
